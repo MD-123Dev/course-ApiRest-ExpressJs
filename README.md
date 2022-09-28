@@ -5,9 +5,9 @@ course Api Rest with Squelize and ExpressJs
 
  => routing .
  
- => connect withMySql .
+ => connect with MySql .
  
- => creat Model WITH sQUELIZE
+ => create Model WITH SQUELIZE
  
  => CRUD 
  
